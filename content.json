@@ -1,1 +1,59 @@
-{}
+{
+    "patiëntgegevens": {
+        "geslacht": {
+            "selectedChoice": "Man"
+        },
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "datum_van_de_eerste_insulinetoediening": "Fri Apr 12 2013 00:00:00 GMT+0200 (CEST)",
+        "jaar_van_datacollectie": 2013,
+        "geboortejaar": 1999
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {},
+            "datum_van_de_meest_recente_consultatie": "Thu Feb 14 2013 00:00:00 GMT+0100 (CET)",
+            "de_patiënt_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {
+                "systolische_bloeddruk_mmhg": 123
+            },
+            "diastolische_bloeddruk": {
+                "diastolische_bloeddruk_mmhg": 122
+            }
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoïdie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
